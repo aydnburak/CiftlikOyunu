@@ -1,0 +1,10 @@
+C:\Users\Burak\Desktop\NdpProje\NdpProje\bin\Debug\CiftlikOyunu.exe.config
+C:\Users\Burak\Desktop\NdpProje\NdpProje\bin\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\NdpProje\NdpProje\bin\Debug\CiftlikOyunu.pdb
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.Form1.resources
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.Properties.Resources.resources
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.exe
+C:\Users\Burak\Desktop\NdpProje\NdpProje\obj\Debug\CiftlikOyunu.pdb

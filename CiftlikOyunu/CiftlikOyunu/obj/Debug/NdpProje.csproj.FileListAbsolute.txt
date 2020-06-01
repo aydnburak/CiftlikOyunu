@@ -1,0 +1,10 @@
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.exe.config
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.exe
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\bin\Debug\NdpProje.pdb
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.csprojAssemblyReference.cache
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.Form1.resources
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.Properties.Resources.resources
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.GenerateResource.cache
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.csproj.CoreCompileInputs.cache
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.exe
+C:\Users\BURAK AYDIN\source\repos\NdpProje\NdpProje\obj\Debug\NdpProje.pdb
